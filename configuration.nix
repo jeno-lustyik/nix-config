@@ -113,7 +113,7 @@
   #  wget
     grub2 os-prober
   	zip unzip
-	tmux curl git
+	tmux curl git gh
 	neovim zed-editor
 	zsh oh-my-zsh nerdfonts starship
 	go
