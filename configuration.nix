@@ -119,6 +119,7 @@
 	go
 	python314
 	rustc rustup
+	ghostty
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
