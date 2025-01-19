@@ -117,7 +117,7 @@
 	neovim zed-editor
 	zsh oh-my-zsh nerdfonts starship
 	go
-	python314
+	python314 SDL2
 	rustc rustup
 	ghostty
   ];
